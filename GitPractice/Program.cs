@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello, World!");
+﻿// Учебный проект для знакомства с GitHub.
+Console.WriteLine("Привет, Кемерово");
